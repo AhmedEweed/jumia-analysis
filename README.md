@@ -1,21 +1,22 @@
 # Jumia-analysis
 
-analye a dataset of jumia data and report insights about it
+analyze a dataset of jumia data and report insights about it
 
 ## Getting Started
 
-To get a copy of the project, just clone the repository and download it to a local directory
+To get a copy of the project,  
+just clone the repository and download it to a local directory  
 then open `jumia analysis.ipynb` with jupyter notebook on Python environment
 
-you can then see my report
-and the results and plots I made on the dataset
-you can even rerun the code yourself
+you can then see my report  
+and the results and plots I made on the dataset  
+you can even rerun the code yourself  
 
 ### Prerequisites
 
-you should have python 3.6 installed
-you should have jupyter notebook installed
-you should have all the libraies imported in the `jumia analysis.ipynb` file installed
+you should have python 3.6 installed  
+you should have jupyter notebook installed  
+you should have all the libraies imported in the `jumia analysis.ipynb` file installed  
 
 
 ## Authors
